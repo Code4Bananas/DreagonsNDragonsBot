@@ -1,0 +1,75 @@
+DragonsNDragonsBot Terms of Service
+Effective Date: September 15, 2025
+
+By using or interacting with the DragonsNDragonsBot (the "Bot") on Discord, you agree to comply with and be bound by the following Terms of Service ("Terms"). If you do not agree with these Terms, you are prohibited from using the DragonsNDragonsBot.
+
+1. Agreement to Terms
+
+By using or accessing the Bot, you agree to be bound by these Terms, our Privacy Policy, and any additional rules or guidelines that may apply to specific features of the Bot. If you do not agree with any part of these Terms, you must not use the Bot.
+
+2. Description of the Bot
+
+DragonsNDragonsBot is a unique and engaging Discord bot that brings daily excitement and creativity to your server. Powered by OpenAI and Discord API, the bot creates a fun, interactive experience for your community.
+
+3. Eligibility
+
+You must be at least 13 years old to use the Bot, as per Discord's Terms of Service. If you are under 18, you must have the permission of a parent or guardian to use the Bot.
+
+4. User Conduct
+
+When using the Bot, you agree to:
+
+Not engage in any illegal activity or violate any applicable laws or regulations.
+
+Not use the Bot for spamming, harassment, or any disruptive behavior within Discord servers.
+
+Not attempt to gain unauthorized access to the Bot’s code, systems, or networks.
+
+Not use the Bot to distribute harmful, malicious, or inappropriate content, including but not limited to malware, spam, or explicit material.
+
+Follow all server-specific rules, Discord’s Terms of Service, and any other relevant community guidelines.
+
+Failure to comply with these conduct guidelines may result in your access to the Bot being restricted or terminated.
+
+5. Bot Availability
+
+The Bot is provided on an "as is" basis and may experience downtime, maintenance, or unexpected issues. We make no guarantees regarding the Bot’s availability or functionality. The Bot’s developers are not liable for any service interruptions or disruptions.
+
+6. Privacy Policy
+
+By using the Bot, you acknowledge that your usage may result in the collection of certain data as outlined in the Bot's [Privacy Policy]. This may include information such as your Discord username, user ID, and activity within servers using the Bot.
+
+We will not share any private information without your consent unless required by law.
+
+7. Intellectual Property
+
+All intellectual property rights, including copyrights and trademarks, related to the Bot and its associated materials, remain the property of the developers or their licensors. You may not reproduce, modify, or redistribute the Bot without explicit permission from the developers.
+
+8. Termination
+
+We reserve the right to suspend or terminate your access to the Bot at our discretion, with or without notice, if we believe that you have violated these Terms. You may also stop using the Bot at any time.
+
+Upon termination, all rights granted to you under these Terms will immediately cease.
+
+9. Disclaimer of Warranties
+
+The Bot is provided "as is," and we make no warranties, express or implied, regarding the Bot’s functionality or performance. We disclaim any responsibility for any loss of data, user interactions, or issues arising from the use of the Bot.
+
+10. Limitation of Liability
+
+To the fullest extent permitted by law, the developers of the Bot shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with the use of the Bot, including but not limited to data loss, downtime, or service interruptions.
+
+11. Modifications to Terms
+
+We reserve the right to update or change these Terms at any time. Any modifications will be posted on this page with the updated effective date. By continuing to use the Bot after such changes, you agree to the updated Terms.
+
+12. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles. Any disputes arising out of or related to these Terms will be resolved in the competent courts of [Your Jurisdiction].
+
+13. Contact Information
+
+If you have any questions or concerns regarding these Terms, please contact us at:
+
+Email: mcspc96@hotmail.com
+Discord Server: https://discord.gg/cgkwVmYu
